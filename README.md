@@ -6,7 +6,6 @@ I care about type-safe APIs, predictable behavior, security, and production-read
 ## Featured projects
 
 - [Weave](https://github.com/imbrooklyn/weave) — A backend-neutral, type-safe query predicate construction and compilation core for Go.
-- [Weave Adapters](https://github.com/imbrooklyn/weave-adapters) — Independent compiler modules for Weave, starting with a typed in-memory reference implementation.
 - [Shuttle](https://github.com/imbrooklyn/shuttle) — Type-safe composition primitives for Go, including comparators, predicates, Optional values, and lazy Streams.
 - [KuPilot](https://github.com/imbrooklyn/kupilot) — A local, agent-first Kubernetes TUI for bounded and evidence-backed diagnostics.
 - [ldappool](https://github.com/imbrooklyn/ldappool) — A security-focused LDAP connection pool for Go.
