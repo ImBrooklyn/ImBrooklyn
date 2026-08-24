@@ -5,6 +5,7 @@ I care about type-safe APIs, predictable behavior, security, and production-read
 
 ## Featured projects
 
+- [leakviz](https://github.com/imbrooklyn/leakviz) — A read-only Go CLI for turning Go 1.27 goroutine leak profiles into deterministic, auditable reports and diffs.
 - [Weave](https://github.com/imbrooklyn/weave) — A backend-neutral, type-safe query predicate construction and compilation core for Go.
 - [Shuttle](https://github.com/imbrooklyn/shuttle) — Type-safe composition primitives for Go, including comparators, predicates, Optional values, and lazy Streams.
 - [KuPilot](https://github.com/imbrooklyn/kupilot) — A local, agent-first Kubernetes TUI for bounded and evidence-backed diagnostics.
