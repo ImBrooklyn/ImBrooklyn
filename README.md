@@ -22,9 +22,9 @@ I care about clear interfaces, predictable behavior, reliable operations, and sy
 - [shuttle](https://github.com/imbrooklyn/shuttle) — Type-safe composition primitives for Go, including comparators, predicates, optional values, and lazy streams.
 - [ldappool](https://github.com/imbrooklyn/ldappool) — A concurrency-safe pool of reusable, authenticated LDAP connections for Go.
 - [weave](https://github.com/imbrooklyn/weave) — A backend-neutral, type-safe query predicate construction and compilation core for Go.
-- [leakviz](https://github.com/imbrooklyn/leakviz) — A read-only Go CLI for turning goroutine leak profiles into deterministic, auditable reports and diffs.
+- [leakviz](https://github.com/imbrooklyn/leakviz) — A lightweight, type-safe rules engine for deterministic, explainable business decisions in Go.
 - [kupilot](https://github.com/imbrooklyn/kupilot) — A local Kubernetes TUI agent for bounded, evidence-first diagnostics.
-- [semver-go](https://github.com/imbrooklyn/semver-go) — An implementation of Semantic Versioning 2.0.0 for Go.
+- [rulite]([https://github.com/imbrooklyn/semver-go](https://github.com/imbrooklyn/rulite)) — A lightweight, type-safe rules engine for deterministic, explainable business decisions in Go.
 
 ## Writing ✍️
 
