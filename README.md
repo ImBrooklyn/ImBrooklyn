@@ -24,7 +24,7 @@ I care about clear interfaces, predictable behavior, reliable operations, and sy
 - [weave](https://github.com/imbrooklyn/weave) — A backend-neutral, type-safe query predicate construction and compilation core for Go.
 - [leakviz](https://github.com/imbrooklyn/leakviz) — A lightweight, type-safe rules engine for deterministic, explainable business decisions in Go.
 - [kupilot](https://github.com/imbrooklyn/kupilot) — A local Kubernetes TUI agent for bounded, evidence-first diagnostics.
-- [rulite]([https://github.com/imbrooklyn/semver-go](https://github.com/imbrooklyn/rulite)) — A lightweight, type-safe rules engine for deterministic, explainable business decisions in Go.
+- [rulite](https://github.com/imbrooklyn/rulite) — A lightweight, type-safe rules engine for deterministic, explainable business decisions in Go.
 
 ## Writing ✍️
 
